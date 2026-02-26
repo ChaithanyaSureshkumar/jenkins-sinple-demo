@@ -1,3 +1,3 @@
 #!/bin/bash
-Echo "help from git project"
-Echo "CI/CD pipeline"
+echo "help from git project"
+echo "CI/CD pipeline"
