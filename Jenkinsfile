@@ -13,6 +13,7 @@ pipeline {
                 sh 'chmod +x script.sh'
                 sh './script.sh'
             }
+            
         }
     }
 }
